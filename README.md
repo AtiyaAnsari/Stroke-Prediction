@@ -1,0 +1,2 @@
+# Stroke-Prediction
+What is stroke? (1) Stroke is a disease that affects the arteries leading to and within the brain. (2) According to World Health Organization (WHO) stroke is the 2nd leading cause of death globally. (3) Basically stroke occurs when a blood vessel that carries oxygen and nutrients to the brain is either blocked by a clot or ruptures/burst. Without oxygen, brain cells and tissue become damaged and begin to die within minutes.
